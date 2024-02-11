@@ -1,6 +1,6 @@
 # Noela
 
-I built Noela.ai to combats the loneliness epidemic. Together is Better.
+I built Noela.ai to combat the loneliness epidemic. Together is Better.
 
 ## Use
 
@@ -12,7 +12,7 @@ Built with TypeScript, Next.js, React, OpenAI, Twilio and Tailwind.
 
 ## Features
 
-Noela.ai arranges weekly local outings for new friends who share hobbies and availability. No more awkward networking or schedule wrangling 🤪
+Noela arranges weekly local outings for new friends who share hobbies and availability. No more awkward networking or schedule wrangling 🤪
 
 ## Screenshot
 
